@@ -23,7 +23,7 @@ export const blogList = [
       authorAvatar: '/assets/images/author.jpg',
       createdAt: 'June 10, 2023',
       cover: '/assets/images/blog1.png',
-      redirectionUrl:"https://www.linkedin.com/pulse/9-ways-improve-your-writing-skills-aaquib-ali?utm_source=share&utm_medium=member_android&utm_campaign=share_via",
+      redirectionUrl:"https://www.linkedin.com/pulse/unveiling-world-nfts-comprehensive-guide-aaquib-ali?utm_source=share&utm_medium=member_android&utm_campaign=share_via",
     },
     {
       id: 3,
