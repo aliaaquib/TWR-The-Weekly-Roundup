@@ -41,7 +41,7 @@ For breif description please [click here](/documentation/add-your-article.md)
 
 [Click here](/documentation/CONTRIBUTING.md) for breif documentation.
 
-#### How to add YOUR article
+### How to add YOUR article
 
 Follows these steps to add your article
 
