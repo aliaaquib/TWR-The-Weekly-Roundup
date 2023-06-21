@@ -1,6 +1,18 @@
 export const blogList = [
     {
       id: 1,
+      title: '9 Ways To Improve Your Writing Skills',
+      category: 'Writting',
+      subCategory: ['Tips', 'Writting', 'skill'],
+      description:
+      "Are you looking to enhance your writing skills and become a more effective communicator? ",
+      authorAvatar:'Aaquib Ali' ,
+      authorAvatar: '/assets/images/author.jpg',
+      createdAt: 'June 20, 2023',
+      cover: '/assets/images/blog7.png',
+    },
+    {
+      id: 2,
       title: 'Unveiling the World of NFTs: A Comprehensive Guide ',
       category: 'NFT',
       subCategory: ['web3', 'art', 'nft'],
@@ -12,7 +24,7 @@ export const blogList = [
       cover: '/assets/images/blog1.png',
     },
     {
-      id: 2,
+      id: 3,
       title: 'Coding Efficiency Unleashed: 10 ChatGPT Hacks for Developers',
       category: 'AI',
       subCategory: ['chatgpt', 'ai', 'developer'],
@@ -24,7 +36,7 @@ export const blogList = [
       cover: '/assets/images/blog2.png',
     },
     {
-      id: 3,
+      id: 4,
       title: 'ChatGPT vs Bard: Which chatbot is better?',
       category: 'AI',
       subCategory: ['chatgpt', 'ai', 'brad'],
@@ -36,7 +48,7 @@ export const blogList = [
       cover: '/assets/images/blog3.png',
     },
     {
-      id: 4,
+      id: 5,
       title: 'Top 5 in Demand Programming Languages to learn in 2023',
       category: 'Programming',
       subCategory: ['developer', 'programming', 'language'],
@@ -48,7 +60,7 @@ export const blogList = [
       cover: '/assets/images/blog4.png',
     },
     {
-      id: 5,
+      id: 6,
       title: 'A complete Beginner’s guide — Web 3.0',
       category: 'Web3',
       subCategory: ['guide', 'begainner', 'programming'],
@@ -60,7 +72,7 @@ export const blogList = [
       cover: '/assets/images/blog5.png',
     },
     {
-      id: 6,
+      id: 7,
       title: 'Web3: An Introduction to the Decentralized Future of the Internet',
       category: 'Web3',
       subCategory: ['language', 'decentralized', 'programming'],
