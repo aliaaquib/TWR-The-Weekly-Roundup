@@ -8,7 +8,8 @@ const Header = () => (
       <span>“</span> TWR - The Weeky Roundup <span>”</span>
     </h1>
     <p>
-      An weekly newsletter <br /> focused on web3, open-source, life lesions.
+      Discover, Engage, Elevate!  Your one-stop destination <br />  for captivating articles, vibrant discussions,  <br /> and limitless
+      inspiration.
     </p>
   </header>
 );
