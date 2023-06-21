@@ -1,70 +1,25 @@
-# Getting Started with Create React App
+<!-- logo and shields -->
+<div align="center">
+<img src="/public/assets/images/twr.png" height="100" width="100">
+  
+[![Open in GitPod](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/aliaaquib/TWR-The-Weekly-Roundup) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![GitHub release (latest by date)](https://img.shields.io/github/v/release/aliaaquib/TWR-The-Weekly-Roundup)](https://github.com/EddieHubCommunity/LinkFree/releases) ![GitHub repo size](https://img.shields.io/github/repo-size/aliaaquib/TWR-The-Weekly-Roundup)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+</div>
+<!-- tagline -->
 
-## Available Scripts
+  <p align="center">Discover, Engage, Elevate! TWR: Your one-stop destination for captivating articles, vibrant discussions, and limitless <br> inspiration. Get ready to soar with the weekly   roundup that fuels your intellectual fire!</p>
 
-In the project directory, you can run:
 
-### `npm start`
+<!-- Description -->
+## TWR ~ The Weekly Roundup
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Welcome to a world of captivating stories, mind-expanding knowledge, and thought-provoking insights. Join us at TWR, where curiosity finds its fuel and inspiration takes flight. From cutting-edge articles to thought-provoking discussions, immerse yourself in a weekly journey that leaves you informed, inspired, and craving more. Get ready to ignite your intellectual spark with the ultimate destination for discovery and enlightenment!
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<img width="927" alt="Screenshot 2023-06-21 210223" src="https://github.com/aliaaquib/TWR-The-Weekly-Roundup/assets/132553383/3462702c-7e79-408e-82ab-37b7a06d3ed4">
 
-### `npm test`
+## Tech Stack
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+TWR is built using the following technologies:
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- [React.js](https://react.dev/) - a JavaScript library for building user interfaces
+- [Tailwind CSS](https://tailwindcss.com/) - a utility-first CSS framework    
