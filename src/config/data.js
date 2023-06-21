@@ -36,7 +36,7 @@ export const blogList = [
       authorAvatar: '/assets/images/author.jpg',
       createdAt: 'June 03, 2023',
       cover: '/assets/images/blog2.png',
-      redirectionUrl:"https://www.linkedin.com/pulse/9-ways-improve-your-writing-skills-aaquib-ali?utm_source=share&utm_medium=member_android&utm_campaign=share_via",
+      redirectionUrl:"https://www.linkedin.com/pulse/coding-efficiency-unleashed-10-chatgpt-hacks-developers-aaquib-ali?utm_source=share&utm_medium=member_android&utm_campaign=share_via", 
     },
     {
       id: 4,
@@ -49,7 +49,7 @@ export const blogList = [
       authorAvatar: '/assets/images/author.jpg',
       createdAt: 'May 27, 2023',
       cover: '/assets/images/blog3.png',
-      redirectionUrl:"https://www.linkedin.com/pulse/9-ways-improve-your-writing-skills-aaquib-ali?utm_source=share&utm_medium=member_android&utm_campaign=share_via",
+      redirectionUrl:"https://www.linkedin.com/pulse/chatgpt-vs-brad-which-chatbot-better-aaquib-ali?utm_source=share&utm_medium=member_android&utm_campaign=share_via",
     },
     {
       id: 5,
@@ -62,7 +62,7 @@ export const blogList = [
       authorAvatar: '/assets/images/author.jpg',
       createdAt: 'May 20, 2023',
       cover: '/assets/images/blog4.png',
-      redirectionUrl:"https://www.linkedin.com/pulse/9-ways-improve-your-writing-skills-aaquib-ali?utm_source=share&utm_medium=member_android&utm_campaign=share_via",
+      redirectionUrl:"https://www.linkedin.com/pulse/top-5-demand-programming-languages-learn-2023-aaquib-ali?utm_source=share&utm_medium=member_android&utm_campaign=share_via",
     },
     {
       id: 6,
@@ -75,7 +75,7 @@ export const blogList = [
       authorAvatar: '/assets/images/author.jpg',
       createdAt: 'May 13, 2023',
       cover: '/assets/images/blog5.png',
-      redirectionUrl:"https://www.linkedin.com/pulse/9-ways-improve-your-writing-skills-aaquib-ali?utm_source=share&utm_medium=member_android&utm_campaign=share_via",
+      redirectionUrl:"https://www.linkedin.com/pulse/complete-beginners-guide-web-30-aaquib-ali?utm_source=share&utm_medium=member_android&utm_campaign=share_via",
     },
     {
       id: 7,
@@ -89,7 +89,7 @@ export const blogList = [
       createdAt: 'May 06, 2023',
       cover:
         '/assets/images/blog6.png',
-        redirectionUrl:"https://www.linkedin.com/pulse/9-ways-improve-your-writing-skills-aaquib-ali?utm_source=share&utm_medium=member_android&utm_campaign=share_via",
+        redirectionUrl:"https://www.linkedin.com/pulse/web3-introduction-decentralized-future-internet-aaquib-ali?utm_source=share&utm_medium=member_android&utm_campaign=share_via",
     },
   ];
   
