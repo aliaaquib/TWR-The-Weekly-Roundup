@@ -15,7 +15,8 @@
 
 Welcome to a world of captivating stories, mind-expanding knowledge, and thought-provoking insights. Join us at TWR, where curiosity finds its fuel and inspiration takes flight. From cutting-edge articles to thought-provoking discussions, immerse yourself in a weekly journey that leaves you informed, inspired, and craving more. Get ready to ignite your intellectual spark with the ultimate destination for discovery and enlightenment!
 
-<img width="927" alt="Screenshot 2023-06-21 210223" src="https://github.com/aliaaquib/TWR-The-Weekly-Roundup/assets/132553383/3462702c-7e79-408e-82ab-37b7a06d3ed4">
+<!-- <img width="927" alt="Screenshot 2023-06-21 210223" src="https://github.com/aliaaquib/TWR-The-Weekly-Roundup/assets/132553383/3462702c-7e79-408e-82ab-37b7a06d3ed4"> -->
+<img width="941" alt="Screenshot 2023-06-21 221644" src="https://github.com/aliaaquib/TWR-The-Weekly-Roundup/assets/132553383/ccf52db7-4490-470b-acf5-12d57b7dd473">
 
 ## Tech Stack
 
