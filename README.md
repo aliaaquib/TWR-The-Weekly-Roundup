@@ -18,17 +18,22 @@ Welcome to a world of captivating stories, mind-expanding knowledge, and thought
 <!-- <img width="927" alt="Screenshot 2023-06-21 210223" src="https://github.com/aliaaquib/TWR-The-Weekly-Roundup/assets/132553383/3462702c-7e79-408e-82ab-37b7a06d3ed4"> -->
 <img width="941" alt="Screenshot 2023-06-21 221644" src="https://github.com/aliaaquib/TWR-The-Weekly-Roundup/assets/132553383/ccf52db7-4490-470b-acf5-12d57b7dd473">
 
+<!-- Tech Stack -->
+
 ## Tech Stack
 
 TWR is built using the following technologies:
 
 - [React.js](https://react.dev/) - a JavaScript library for building user interfaces
-- [Tailwind CSS](https://tailwindcss.com/) - a utility-first CSS framework    
+
+<!-- prerequisites -->
 
 #### Prerequisites
 Before contributing or adding a new feature, please make sure you have already installed the following tools:
 
 - [React](https://nodejs.org/en/download/) (Works with Node LTS version v16.17.0)
+
+<!-- contribuition guide -->
 
 ## Let's Contribute
 
@@ -78,6 +83,8 @@ Follows these steps to add your article
 11. You will receive a GitHub notification when you have a comment, review, or your Pull Request has been merged
 
 12. Once merged, your article will be available a few minutes later on [TWR Website](https://theweeklyroundup.vercel.app)
+
+<!-- support -->
 
 ## Support
 
