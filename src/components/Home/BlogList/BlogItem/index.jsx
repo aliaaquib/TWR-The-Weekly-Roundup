@@ -13,9 +13,11 @@ const BlogItem = ({
     cover,
     category,
     id,
+    redirectionUrl,
   },
 }) => {
   return (
+    <a href={redirectionUrl} target='_blank' rel="noreferrer" style={{textDecoration:"none"}}>
     <div className='blogItem-wrap'>
       <img className='blogItem-cover' src={cover} alt='cover' />
       <Chip label={category} />
@@ -35,7 +37,7 @@ const BlogItem = ({
           ➝
         </Link>
       </footer>
-    </div>
+    </div></a>
   );
 };
 
