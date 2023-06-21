@@ -17,7 +17,7 @@ const BlogItem = ({
   },
 }) => {
   return (
-    <a href={redirectionUrl} target='_blank' rel="noreferrer" style={{textDecoration:"none"}}>
+    <a href={redirectionUrl} target='_blank' rel="noreferrer" style={{textDecoration:"none", color:"black"}}>
     <div className='blogItem-wrap'>
       <img className='blogItem-cover' src={cover} alt='cover' />
       <Chip label={category} />

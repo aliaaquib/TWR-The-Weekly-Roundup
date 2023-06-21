@@ -24,3 +24,64 @@ TWR is built using the following technologies:
 
 - [React.js](https://react.dev/) - a JavaScript library for building user interfaces
 - [Tailwind CSS](https://tailwindcss.com/) - a utility-first CSS framework    
+
+#### Prerequisites
+Before contributing or adding a new feature, please make sure you have already installed the following tools:
+
+- [React](https://nodejs.org/en/download/) (Works with Node LTS version v16.17.0)
+
+## Let's Contribute
+
+For breif description please [click here](/add-your-article.md)
+
+[Click here](CONTRIBUTING.md) for breif documentation.
+
+## How to add YOUR article
+
+Follows these steps to add your article
+
+1. Log in to your GitHub Account
+
+2. Vist the [TWR ~ The Weekly Roundup](https://github.com/TWR-THE-WEEKLY-ROUNDUP)
+
+3. If you wish to be kept up to date with the repo, hit that "Star" at the top right
+
+4. Click on FORK
+
+5. Accept the default fork creating a copy of the TWR project in your account - this will take you to the forked repo
+
+6. Open the folked folder in your favourite editor
+
+7. Go to the file path `src/config/data.json` & add your article information.
+
+8. For the file contents use the json structure below 👇
+
+```
+{
+      id: ,
+      title: '',
+      category: '',
+      subCategory: ['', '', ''],
+      description: " ",
+      authorName:' ',
+      authorAvatar: ' ',
+      createdAt: ' ',
+      cover: ' ',
+      redirectionUrl:" ",
+    }
+```
+
+9. Save the changes and raise [PR](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) & wait for merged. 
+
+10. Congratulation 🎉 you made your First contribution in [TWR](https://theweeklyroundup.vercel.app)
+
+11. You will receive a GitHub notification when you have a comment, review, or your Pull Request has been merged
+
+12. Once merged, your article will be available a few minutes later on [TWR Website](https://theweeklyroundup.vercel.app)
+
+## Support
+
+Don't forget to leave a star ⭐️.
+
+
+If you have experienced or been made aware of unacceptable behaviour, please remember that you can report this.  Read our [Code of Conduct](https://github.com/aliaaquib/TWR-THE-WEEKLY-ROUNDUP/blob/main/CODE_OF_CONDUCT.md) for more details.
