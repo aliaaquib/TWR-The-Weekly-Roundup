@@ -37,11 +37,11 @@ Before contributing or adding a new feature, please make sure you have already i
 
 ## Let's Contribute
 
-For breif description please [click here](/add-your-article.md)
+For breif description please [click here](/documentation/add-your-article.md)
 
-[Click here](CONTRIBUTING.md) for breif documentation.
+[Click here](/documentation/CONTRIBUTING.md) for breif documentation.
 
-## How to add YOUR article
+#### How to add YOUR article
 
 Follows these steps to add your article
 
@@ -91,4 +91,4 @@ Follows these steps to add your article
 Don't forget to leave a star ⭐️.
 
 
-If you have experienced or been made aware of unacceptable behaviour, please remember that you can report this.  Read our [Code of Conduct](https://github.com/aliaaquib/TWR-THE-WEEKLY-ROUNDUP/blob/main/CODE_OF_CONDUCT.md) for more details.
+If you have experienced or been made aware of unacceptable behaviour, please remember that you can report this.  Read our [Code of Conduct](/documentation/CODE_OF_CONDUCT.md) for more details.
