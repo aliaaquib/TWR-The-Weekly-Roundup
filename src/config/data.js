@@ -9,7 +9,7 @@ export const blogList = [
       authorName:'Aaquib Ali' ,
       authorAvatar: '/assets/images/author.jpg',
       createdAt: 'June 24, 2023',
-      cover: '/assets/images/blog7.png',
+      cover: '/assets/images/blog8.png',
       redirectionUrl:"https://www.linkedin.com/pulse/10-programming-principles-every-software-developer-should-aaquib-ali?utm_source=share&utm_medium=member_android&utm_campaign=share_via",
     },
     {
