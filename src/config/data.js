@@ -1,6 +1,19 @@
 export const blogList = [
     {
       id: 1,
+      title: '10 Programming Principles Every Software Developer Should Know',
+      category: 'Developer',
+      subCategory: ['Tips', 'programing', 'skill'],
+      description:
+      "Want to take your coding skills to the next level? Look no further! I've just stumbled upon an incredible article that reveals the 10 game-changing programming principles every developer should know. From DRY to SOLID principles and beyond. ",
+      authorName:'Aaquib Ali' ,
+      authorAvatar: '/assets/images/author.jpg',
+      createdAt: 'June 24, 2023',
+      cover: '/assets/images/blog7.png',
+      redirectionUrl:"https://www.linkedin.com/pulse/10-programming-principles-every-software-developer-should-aaquib-ali?utm_source=share&utm_medium=member_android&utm_campaign=share_via",
+    },
+    {
+      id: 2,
       title: '9 Ways To Improve Your Writing Skills',
       category: 'Writting',
       subCategory: ['Tips', 'Writting', 'skill'],
@@ -13,7 +26,7 @@ export const blogList = [
       redirectionUrl:"https://www.linkedin.com/pulse/9-ways-improve-your-writing-skills-aaquib-ali?utm_source=share&utm_medium=member_android&utm_campaign=share_via",
     },
     {
-      id: 2,
+      id: 3,
       title: 'Unveiling the World of NFTs: A Comprehensive Guide ',
       category: 'NFT',
       subCategory: ['web3', 'art', 'nft'],
@@ -26,7 +39,7 @@ export const blogList = [
       redirectionUrl:"https://www.linkedin.com/pulse/unveiling-world-nfts-comprehensive-guide-aaquib-ali?utm_source=share&utm_medium=member_android&utm_campaign=share_via",
     },
     {
-      id: 3,
+      id: 4,
       title: 'Coding Efficiency Unleashed: 10 ChatGPT Hacks for Developers',
       category: 'AI',
       subCategory: ['chatgpt', 'ai', 'developer'],
@@ -39,7 +52,7 @@ export const blogList = [
       redirectionUrl:"https://www.linkedin.com/pulse/coding-efficiency-unleashed-10-chatgpt-hacks-developers-aaquib-ali?utm_source=share&utm_medium=member_android&utm_campaign=share_via", 
     },
     {
-      id: 4,
+      id: 5,
       title: 'ChatGPT vs Bard: Which chatbot is better?',
       category: 'AI',
       subCategory: ['chatgpt', 'ai', 'brad'],
@@ -52,7 +65,7 @@ export const blogList = [
       redirectionUrl:"https://www.linkedin.com/pulse/chatgpt-vs-brad-which-chatbot-better-aaquib-ali?utm_source=share&utm_medium=member_android&utm_campaign=share_via",
     },
     {
-      id: 5,
+      id: 6,
       title: 'Top 5 in Demand Programming Languages to learn in 2023',
       category: 'Programming',
       subCategory: ['developer', 'programming', 'language'],
@@ -65,7 +78,7 @@ export const blogList = [
       redirectionUrl:"https://www.linkedin.com/pulse/top-5-demand-programming-languages-learn-2023-aaquib-ali?utm_source=share&utm_medium=member_android&utm_campaign=share_via",
     },
     {
-      id: 6,
+      id: 7,
       title: 'A complete Beginner’s guide — Web 3.0',
       category: 'Web3',
       subCategory: ['guide', 'begainner', 'programming'],
@@ -78,7 +91,7 @@ export const blogList = [
       redirectionUrl:"https://www.linkedin.com/pulse/complete-beginners-guide-web-30-aaquib-ali?utm_source=share&utm_medium=member_android&utm_campaign=share_via",
     },
     {
-      id: 7,
+      id: 8,
       title: 'Web3: An Introduction to the Decentralized Future of the Internet',
       category: 'Web3',
       subCategory: ['language', 'decentralized', 'programming'],
