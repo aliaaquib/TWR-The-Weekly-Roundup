@@ -5,7 +5,7 @@ export const blogList = [
       category: 'Developer',
       subCategory: ['Tips', 'programing', 'skill'],
       description:
-      "Want to take your coding skills to the next level? Look no further! I've just stumbled upon an incredible article that reveals the 10 game-changing programming principles every developer should know. From DRY to SOLID principles and beyond. ",
+      "Want to take your coding skills to the next level? Look no further! I've just stumbled upon an incredible article that reveals the 10 game-changing programming principles.. ",
       authorName:'Aaquib Ali' ,
       authorAvatar: '/assets/images/author.jpg',
       createdAt: 'June 24, 2023',
