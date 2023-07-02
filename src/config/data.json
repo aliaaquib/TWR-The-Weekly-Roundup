@@ -10,7 +10,7 @@ export const blogList = [
       authorAvatar: '/assets/images/author.jpg',
       createdAt: 'July 2, 2023',
       cover: '/assets/images/blog9.png',
-      redirectionUrl:"https://www.linkedin.com/pulse/10-programming-principles-every-software-developer-should-aaquib-ali?utm_source=share&utm_medium=member_android&utm_campaign=share_via",
+      redirectionUrl:"https://www.linkedin.com/pulse/10-must-have-vscode-extensions-web-development-aaquib-ali?utm_source=share&utm_medium=member_android&utm_campaign=share_via",
     },
     {
       id: 2,
@@ -23,7 +23,7 @@ export const blogList = [
       authorAvatar: '/assets/images/author.jpg',
       createdAt: 'June 24, 2023',
       cover: '/assets/images/blog8.png',
-      redirectionUrl:'https://www.linkedin.com/pulse/10-must-have-vscode-extensions-web-development-aaquib-ali?utm_source=share&utm_medium=member_android&utm_campaign=share_via'
+      redirectionUrl:"https://www.linkedin.com/pulse/10-programming-principles-every-software-developer-should-aaquib-ali?utm_source=share&utm_medium=member_android&utm_campaign=share_via",
 
     },
     {
