@@ -61,6 +61,19 @@
 /* media query */
 @media(max-width:900px) {
   .social-icons{
-    padding-left: 6rem;
+    padding-left: 7rem;
+  }
+
+  .home-header h2 {
+    padding-top: 6px;
+  }
+
+  /* .home-header p {
+    font-size: 14px;
+    padding: 6px;
+  } */
+
+  .home-header h1 {
+    padding-top: 18px;
   }
 }

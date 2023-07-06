@@ -14,9 +14,11 @@ To do this, you need a GitHub account. If you do not have one yet, you can creat
 
 6. Open the folked folder in your favourite code editor
 
-7. Go to the file path `src/config/data.json` & add your article information.
+7.   Go to `public/assets/images` & Uplod your Article Cover Image & Author Image
 
-8. For the file contents use the json structure below 👇
+8. Go to the file path `src/config/data.json` & add your article information.
+
+9. For the file contents use the json structure below 👇
 
 ```
 {
@@ -32,10 +34,10 @@ To do this, you need a GitHub account. If you do not have one yet, you can creat
       redirectionUrl:" Paste the url where your article is published",
     }
 ```
-. Save the changes and raise [PR](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) & wait for merged. 
+10. Save the changes and raise [PR](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) & wait for merged. 
 
-10. **Congratulation 🎉** you made your First contribution in [TWR](https://theweeklyroundup.vercel.app)
+11. **Congratulation 🎉** you made your First contribution in [TWR](https://theweeklyroundup.vercel.app)
 
-11. You will receive a GitHub notification when you have a comment, review, or your Pull Request has been merged
+12. You will receive a GitHub notification when you have a comment, review, or your Pull Request has been merged
 
-12. Once merged, your article will be available a few minutes later on [TWR Website](https://theweeklyroundup.vercel.app)
+13. Once merged, your article will be available a few minutes later on [TWR Website](https://theweeklyroundup.vercel.app)

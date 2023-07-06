@@ -21,9 +21,7 @@ const BlogItem = ({
     <div className='blogItem-wrap'>
       <img className='blogItem-cover' src={cover} alt='cover' />
       <Chip label={category} />
-      {/* <a href="#"> */}
       <h3>{title}</h3>
-      {/* </a> */}
       <p className='blogItem-desc'>{description}</p>
       <footer>
         <div className='blogItem-author'>
@@ -34,7 +32,7 @@ const BlogItem = ({
           </div>
         </div>
         <Link className='blogItem-link' to={`/blog:${id}`}>
-          ➝
+          {/* ➝ */}
         </Link>
       </footer>
     </div></a>
