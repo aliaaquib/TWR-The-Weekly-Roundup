@@ -1,6 +1,19 @@
 export const blogList = [
+  {
+    id: 1,
+    title: 'Unlocking Your Potential: The Power of Having a System as a Software Developer ',
+    category: 'Developer',
+    subCategory: ['learning', 'dev', 'web'],
+    description:
+    "Unlock your potential as a software developer! Discover the power of having a system to navigate complex projects, boost productivity, foster collaboration, and embrace continuous learning ",
+    authorName:'Aaquib Ali' ,
+    authorAvatar: '/assets/images/author.jpg',
+    createdAt: 'July 9, 2023',
+    cover: '/assets/images/blog10.png',
+    redirectionUrl:"https://www.linkedin.com/pulse/unlocking-your-potential-power-having-system-software-aaquib-ali",
+  },
     {
-      id: 1,
+      id: 2,
       title: '10 Must Have VS Code Extension For Web Developers',
       category: 'Developer',
       subCategory: ['top10', 'vscode', 'web'],
@@ -13,7 +26,7 @@ export const blogList = [
       redirectionUrl:"https://www.linkedin.com/pulse/10-must-have-vscode-extensions-web-development-aaquib-ali?utm_source=share&utm_medium=member_android&utm_campaign=share_via",
     },
     {
-      id: 2,
+      id: 3,
       title: '10 Programming Principles Every Software Developer Should Know',
       category: 'Developer',
       subCategory: ['Tips', 'programing', 'skill'],
@@ -27,7 +40,7 @@ export const blogList = [
 
     },
     {
-      id: 3,
+      id: 4,
       title: '9 Ways To Improve Your Writing Skills',
       category: 'Writting',
       subCategory: ['Tips', 'Writting', 'skill'],
@@ -40,7 +53,7 @@ export const blogList = [
       redirectionUrl:"https://www.linkedin.com/pulse/9-ways-improve-your-writing-skills-aaquib-ali?utm_source=share&utm_medium=member_android&utm_campaign=share_via",
     },
     {
-      id: 4,
+      id: 5,
       title: 'Unveiling the World of NFTs: A Comprehensive Guide ',
       category: 'NFT',
       subCategory: ['web3', 'art', 'nft'],
@@ -53,7 +66,7 @@ export const blogList = [
       redirectionUrl:"https://www.linkedin.com/pulse/unveiling-world-nfts-comprehensive-guide-aaquib-ali?utm_source=share&utm_medium=member_android&utm_campaign=share_via",
     },
     {
-      id: 5,
+      id: 6,
       title: 'Coding Efficiency Unleashed: 10 ChatGPT Hacks for Developers',
       category: 'AI',
       subCategory: ['chatgpt', 'ai', 'developer'],
@@ -66,7 +79,7 @@ export const blogList = [
       redirectionUrl:"https://www.linkedin.com/pulse/coding-efficiency-unleashed-10-chatgpt-hacks-developers-aaquib-ali?utm_source=share&utm_medium=member_android&utm_campaign=share_via", 
     },
     {
-      id: 6,
+      id: 7,
       title: 'ChatGPT vs Bard: Which chatbot is better?',
       category: 'AI',
       subCategory: ['chatgpt', 'ai', 'brad'],
@@ -79,7 +92,7 @@ export const blogList = [
       redirectionUrl:"https://www.linkedin.com/pulse/chatgpt-vs-brad-which-chatbot-better-aaquib-ali?utm_source=share&utm_medium=member_android&utm_campaign=share_via",
     },
     {
-      id: 7,
+      id: 8,
       title: 'Top 5 in Demand Programming Languages to learn in 2023',
       category: 'Programming',
       subCategory: ['developer', 'programming', 'language'],
@@ -92,7 +105,7 @@ export const blogList = [
       redirectionUrl:"https://www.linkedin.com/pulse/top-5-demand-programming-languages-learn-2023-aaquib-ali?utm_source=share&utm_medium=member_android&utm_campaign=share_via",
     },
     {
-      id: 8,
+      id: 9,
       title: 'A complete Beginner’s guide — Web 3.0',
       category: 'Web3',
       subCategory: ['guide', 'begainner', 'programming'],
@@ -105,7 +118,7 @@ export const blogList = [
       redirectionUrl:"https://www.linkedin.com/pulse/complete-beginners-guide-web-30-aaquib-ali?utm_source=share&utm_medium=member_android&utm_campaign=share_via",
     },
     {
-      id: 9,
+      id: 10,
       title: 'Web3: An Introduction to the Decentralized Future of the Internet',
       category: 'Web3',
       subCategory: ['language', 'decentralized', 'programming'],
